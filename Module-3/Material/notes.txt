@@ -1,0 +1,1 @@
+apply normalisation/standardisation before calculating euklidian distance (e.g. umap) and PCA, if different units are used per dimension
