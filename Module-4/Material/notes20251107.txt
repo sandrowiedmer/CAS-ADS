@@ -1,0 +1,26 @@
+Type blob array <byte>
+TypeTree map <str, blob|tree>
+Type commit {author, message, [blobs]}
+
+def store(o)
+	hash(o)
+def load(hash(o))
+
+0: object
+
+
+=> git uses leightweight representation
+
+why command line? fill functionality, IDEs provide a limited selection
+
+additional useful commands in bash:
+cp: copy
+mv: move
+man: manual, e.g. man cp
+
+oneDrive, DropBox etc are not meant to be used for Git
+
+add (staged)
+commit
+
+create SSH key in GitHub and add to git: "Generating a new SSH key and adding it..."
