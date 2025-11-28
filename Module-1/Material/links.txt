@@ -1,0 +1,6 @@
+https://github.com/KGzB/CAS-Applied-Data-Science/tree/master/Module-1
+https://stefanthoma.github.io/2024_unibe_protocol/#/title-slide
+https://0198c138-5a4c-54fc-3a34-43bc0726cc87.share.connect.posit.cloud/#/title-slide
+https://colab.research.google.com/github/KGzB/CAS-Applied-Data-Science/blob/master/Module-1/M1-D1-DM.ipynb
+https://colab.research.google.com/github/KGzB/CAS-Applied-Data-Science/blob/master/Module-1/M1-D1-DM-Sol.ipynb
+https://drive.google.com/file/d/12cWTQG5_vcoaz-puhBgH9GrfKUADmLdo/view
